@@ -1,2 +1,2 @@
 # hackethon-demo
-This is our  Git Repository
+This is our first Git Repository
